@@ -8,7 +8,7 @@
 (function () {
   'use strict';
 
-  const sectionIds = ['inicio', 'servicios', 'tecnologias', 'proyectos', 'contacto'];
+  const sectionIds = ['inicio', 'servicios', 'contacto', 'nosotros'];
   const navLinks = Array.from(
     document.querySelectorAll('.navbar a.nav-link[href^="#"]')
   );
