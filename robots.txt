@@ -1,0 +1,4 @@
+User-agent:*
+Allow:/
+
+sitemap:https://incode-studio.vercel.app/sitemap.xml
